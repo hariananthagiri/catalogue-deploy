@@ -20,7 +20,7 @@ variable "environment" {
 }
 
 variable "zone_name" {
-  default = "daws76s.online"
+  default = "ananthagiri.online"
 }
 
 variable app_version {
